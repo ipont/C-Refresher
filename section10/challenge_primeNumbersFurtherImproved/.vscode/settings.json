@@ -1,0 +1,7 @@
+{
+	"window.zoomLevel": 2,
+	"files.associations": {
+		"stdbool.h": "c",
+		"time.h": "c"
+	}
+}
